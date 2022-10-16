@@ -1,0 +1,7 @@
+graph_classification.py  is the main  file  to run
+
+data folder contains the involved data
+
+run run_graph_classify.sh  to get the results for results of each fold and dataset
+
+average the results over the 10 folds get the results we reported.
